@@ -16,6 +16,16 @@ var miNombre = "natalia" //string
 
 var marcaDeBici = "olmo" //string
 
+console.log(anioEgresoFacu)
+console.log(cantMascotasPoseo)
+console.log(millaAKm)
+console.log(medioLitro)
+console.log(hoyTrabajo)
+console.log(juevesCenso)
+console.log(miNombre)
+console.log(marcaDeBici)
+
+
 //fin de primera parte
 
 // segunda practica
